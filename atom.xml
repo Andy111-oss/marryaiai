@@ -3,11 +3,11 @@
   <title>AIAI &amp;&amp; ANDY</title>
   
   <subtitle>看见你的看见</subtitle>
-  <link href="https://andy111-oss.github.io/marryaiai/atom.xml" rel="self"/>
+  <link href="https://andy111-oss.github.io/atom.xml" rel="self"/>
   
-  <link href="https://andy111-oss.github.io/marryaiai/"/>
+  <link href="https://andy111-oss.github.io/"/>
   <updated>2026-05-21T17:48:25.869Z</updated>
-  <id>https://andy111-oss.github.io/marryaiai/</id>
+  <id>https://andy111-oss.github.io/</id>
   
   <author>
     <name>ANDY</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>ai的271天</title>
-    <link href="https://andy111-oss.github.io/marryaiai/posts/930d704a.html"/>
-    <id>https://andy111-oss.github.io/marryaiai/posts/930d704a.html</id>
+    <link href="https://andy111-oss.github.io/posts/930d704a.html"/>
+    <id>https://andy111-oss.github.io/posts/930d704a.html</id>
     <published>2026-05-05T07:43:13.000Z</published>
     <updated>2026-05-21T17:48:25.869Z</updated>
     
@@ -32,17 +32,17 @@
     
     
     
-    <category term="我们" scheme="https://andy111-oss.github.io/marryaiai/categories/%E6%88%91%E4%BB%AC/"/>
+    <category term="我们" scheme="https://andy111-oss.github.io/categories/%E6%88%91%E4%BB%AC/"/>
     
     
-    <category term="艾艾艾的求婚日记" scheme="https://andy111-oss.github.io/marryaiai/tags/%E8%89%BE%E8%89%BE%E8%89%BE%E7%9A%84%E6%B1%82%E5%A9%9A%E6%97%A5%E8%AE%B0/"/>
+    <category term="艾艾艾的求婚日记" scheme="https://andy111-oss.github.io/tags/%E8%89%BE%E8%89%BE%E8%89%BE%E7%9A%84%E6%B1%82%E5%A9%9A%E6%97%A5%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>Markdown语法与外挂标签写法汇总</title>
-    <link href="https://andy111-oss.github.io/marryaiai/posts/2013454d.html"/>
-    <id>https://andy111-oss.github.io/marryaiai/posts/2013454d.html</id>
+    <link href="https://andy111-oss.github.io/posts/2013454d.html"/>
+    <id>https://andy111-oss.github.io/posts/2013454d.html</id>
     <published>2022-08-09T10:19:03.000Z</published>
     <updated>2022-10-23T14:00:00.000Z</updated>
     
@@ -53,12 +53,12 @@
     
     
     
-    <category term="演示" scheme="https://andy111-oss.github.io/marryaiai/categories/%E6%BC%94%E7%A4%BA/"/>
+    <category term="演示" scheme="https://andy111-oss.github.io/categories/%E6%BC%94%E7%A4%BA/"/>
     
     
-    <category term="Markdown" scheme="https://andy111-oss.github.io/marryaiai/tags/Markdown/"/>
+    <category term="Markdown" scheme="https://andy111-oss.github.io/tags/Markdown/"/>
     
-    <category term="外挂标签" scheme="https://andy111-oss.github.io/marryaiai/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
+    <category term="外挂标签" scheme="https://andy111-oss.github.io/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
     
   </entry>
   
